@@ -3626,7 +3626,7 @@ kbd {
         padding: 0
     }
     a {
-        color: #c32b40;
+        color: #3bb0d1;
         text-decoration: none;
         line-height: inherit
     }
@@ -5858,7 +5858,7 @@ kbd {
     .btnb {
         font-family: adelle-sans, sans-serif;
         font-size: 14px;
-        background: #c32b40;
+        background: #3bb0d1;
         cursor: pointer;
         padding: 12px 22px;
         display: inline-block;
@@ -5869,7 +5869,7 @@ kbd {
         -webkit-transition: all .3s;
         -moz-transition: all .3s;
         transition: all .3s;
-        border: 1px solid #c32b40;
+        border: 1px solid #3bb0d1;
         color: #fff;
         -webkit-backface-visibility: hidden;
         -webkit-transform: translate3D(0, 0, 0)
@@ -5916,7 +5916,7 @@ kbd {
     .btnc {
         font-family: adelle-sans, sans-serif;
         font-size: 14px;
-        background: #c32b40;
+        background: #3bb0d1;
         cursor: pointer;
         padding: 12px 22px;
         display: inline-block;
@@ -5927,7 +5927,7 @@ kbd {
         -webkit-transition: all .3s;
         -moz-transition: all .3s;
         transition: all .3s;
-        border: 1px solid #c32b40;
+        border: 1px solid #3bb0d1;
         color: #fff;
         -webkit-backface-visibility: hidden;
         -webkit-transform: translate3D(0, 0, 0)
@@ -6128,7 +6128,7 @@ kbd {
         font-weight: 700
     }
     .fm-button:hover {
-        color: #c32b40
+        color: #3bb0d1
     }
     .fm-button span,
     .fm-button span:after,
@@ -6181,10 +6181,10 @@ kbd {
         -ms-transition: all .2s ease-in-out;
         -o-transition: all .2s ease-in-out;
         -webkit-transition: all .2s ease-in-out;
-        background-color: #c32b40
+        background-color: #3bb0d1
     }
     .fm-button.active:hover {
-        color: #c32b40;
+        color: #3bb0d1;
         -moz-transition: all .2s ease-in-out;
         -ms-transition: all .2s ease-in-out;
         -o-transition: all .2s ease-in-out;
@@ -6197,7 +6197,7 @@ kbd {
     #aboutmore .date {
         margin-bottom: 0;
         font-weight: 700;
-        color: #c32b40
+        color: #3bb0d1
     }
     #myface {
         background: url(../img/background-myface.png) center right/cover no-repeat #101215;
@@ -6264,7 +6264,7 @@ kbd {
         -webkit-transition: all .2s ease-in-out
     }
     .site-titel:hover {
-        color: #c32b40;
+        color: #3bb0d1;
         -moz-transition: all .2s ease-in-out;
         -ms-transition: all .2s ease-in-out;
         -o-transition: all .2s ease-in-out;
@@ -6294,7 +6294,7 @@ kbd {
         line-height: 1.6
     }
     #listposts li a:hover {
-        color: #c32b40;
+        color: #3bb0d1;
         -moz-transition: all .2s ease-in-out;
         -ms-transition: all .2s ease-in-out;
         -o-transition: all .2s ease-in-out;
@@ -6400,12 +6400,13 @@ kbd {
         transition: all .2s ease-in-out
     }
     .mailto a:hover {
-        color: #c32b40;
+        color: #3bb0d1;
         transition: all .2s ease-in-out
     }
     .site-footer {
-        background: #101215;
+        background: #444444 url(../images/bgcover1.png);
         color: #f7f7f7
+
     }
     .logomb {
         opacity: .2;
@@ -6432,6 +6433,7 @@ kbd {
         -webkit-transition: all .2s ease-in-out
     }
     .footer-socials a:hover {
+        color:#3bb0d1;
         -moz-transition: all .2s ease-in-out;
         -ms-transition: all .2s ease-in-out;
         -o-transition: all .2s ease-in-out;
@@ -6464,7 +6466,7 @@ kbd {
         -webkit-transition: all .2s ease-in-out
     }
     footer .footermail:hover {
-        color: #c32b40;
+        color: #3bb0d1;
         font-weight: 400;
         -moz-transition: all .2s ease-in-out;
         -ms-transition: all .2s ease-in-out;
@@ -6482,7 +6484,7 @@ kbd {
         color: #f7f7f7
     }
     .credits a:hover {
-        color: #c32b40
+        color: #3bb0d1
     }
     #presentation {
         margin-top: 14.0625rem;
@@ -6733,7 +6735,7 @@ kbd {
         transition: color .3s ease-in-out
     }
     .fm-nav>a:hover {
-        color: #c32b40
+        color: #3bb0d1
     }
     .fm-nav>a:hover .subtitle {
         color: #f7f7f7
@@ -6754,7 +6756,7 @@ kbd {
         opacity: 0;
         transition: all .3s ease-in-out;
         position: absolute;
-        color: #c32b40;
+        color: #3bb0d1;
         font-weight: 100;
         right: 50px;
         font-size: 50px;
@@ -6978,7 +6980,7 @@ kbd {
         position: fixed;
         top: 110px;
         left: 0;
-        background-color: #c32b40;
+        background-color: #3bb0d1;
         width: 0;
         height: 2px;
         -webkit-transition: width .5s ease-out;
