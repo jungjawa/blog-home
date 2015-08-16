@@ -100,9 +100,24 @@ font-style:normal
         width: 50%;
 }
 
+.small-12 {
+        width: 100%
+
 .medium-6 {
         width: 50%;
 }
+
+.large-6 {
+        width: 50%;
+}
+
+.large-10 {
+        width: 83.3333333333%;
+    }
+
+.large-offset-1 {
+        margin-left: 8.3333333333%!important;
+        }
 
 .site-footer {
         background: #444444 url(../images/bgcover1.png);
